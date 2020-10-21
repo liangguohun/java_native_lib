@@ -1,4 +1,4 @@
-package cn.getech.poros.decencode;
+package cn.demo.decencode;
 
 /**
  * <p>

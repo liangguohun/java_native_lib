@@ -1,4 +1,4 @@
-package cn.getech.poros.decencode;
+package cn.demo.decencode;
 
 import com.sun.jna.Library;
 import com.sun.jna.Native;
